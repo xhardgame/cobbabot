@@ -63,7 +63,7 @@
 
 1. Put your session here<br/>
 
-[`Click Here`](https://github.com/zeeoneofc/Alphabot7/blob/master/session.json#L1)
+[`Click Here`](https://github.com/xhardgame/cobbabot/blob/master/session.json#L1)
 
 ## `SETTING`
 
